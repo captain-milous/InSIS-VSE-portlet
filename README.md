@@ -49,7 +49,7 @@ V tabulce se svými portlety, zvol nově vytvořený portlet a jdi do jeho nasta
 
 ![Vložení HTML do portletu](img/4-vlozeni-html.png)
 
-a. Do textového pole **Zobrazovaný HTML kód** vlož celý HTML kód z [INSIS menu](insis-menu.html)
+a. Do textového pole **Zobrazovaný HTML kód** vlož celý HTML kód z [InSIS Menu - HTML kód](insis-menu.html)
 
 b. Klikni na tlačítko **Uložit změny**  
 <br>
