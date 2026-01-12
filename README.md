@@ -34,15 +34,6 @@ Nejde o fork, ale o **samostatnou implementaci inspirovanou původní myšlenkou
 
 ---
 
-## Upozornění
-
-Tento projekt není oficiální součástí systému InSIS ani Vysoké školy ekonomické v Praze.  
-Slouží pouze jako uživatelské rozšíření pro vlastní potřebu.
-
-Vzhledem k tomu, že InSIS může své rozhraní kdykoli změnit, nemusí být funkčnost garantována do budoucna.
-
----
-
 ## Pokyny pro implementaci
 
 ### 1. Klikni na **Portlety v InSIS**
@@ -76,3 +67,12 @@ b. Klikni na tlačítko **Uložit změny**
 ### 5. Hotovo – nové InSIS menu je aktivní
 
 ![Preview MENU v InSIS](img/0-menu-preview.png)
+
+---
+
+## Upozornění
+
+Tento projekt není oficiální součástí systému InSIS ani Vysoké školy ekonomické v Praze.  
+Slouží pouze jako uživatelské rozšíření pro vlastní potřebu.
+
+Vzhledem k tomu, že InSIS může své rozhraní kdykoli změnit, nemusí být funkčnost garantována do budoucna.
