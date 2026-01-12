@@ -13,7 +13,7 @@ Cílem je zpřístupnit nejčastěji používané sekce (rozvrh, odevzdávárny,
 Projekt je vhodný jak pro běžné studenty, tak i pro technicky méně zdatné uživatele – stačí vložit hotový kód na správné místo.
 
 ---  
-
+<br>
 
 ## Pokyny pro implementaci
 
@@ -22,7 +22,7 @@ Projekt je vhodný jak pro běžné studenty, tak i pro technicky méně zdatné
 ![Portlety](img/1-portlety.png)
 
 V menu **Přizpůsobení informačního systému** zvol **Portlety v InSIS**  
-
+<br>
 
 ### 2. Přidej nový portlet
 
@@ -35,7 +35,7 @@ b. V **Popis portletu** napiš krátký popis
 c. V **Pozice pro umístění portletu** zvol **Základní - na začátku stránky**
 
 d. Klikni na tlačítko **Přidat**  
-
+<br>
 
 
 ### 3. Jdi do nastavení portletu
@@ -43,7 +43,7 @@ d. Klikni na tlačítko **Přidat**
 ![Nastavení portletu](img/3-nastaveni.png)
 
 V tabulce se svými portlety, zvol nově vytvořený portlet a jdi do jeho nastavení.  
-
+<br>
 
 ### 4. Vlož HTML kód
 
@@ -52,14 +52,14 @@ V tabulce se svými portlety, zvol nově vytvořený portlet a jdi do jeho nasta
 a. Do textového pole **Zobrazovaný HTML kód** vlož celý HTML kód z insis-menu.html
 
 b. Klikni na tlačítko **Uložit změny**  
-
+<br>
 
 ### 5. Hotovo – nové InSIS menu je aktivní
 
 ![Preview MENU v InSIS](img/0-menu-preview.png)
 
 ---  
-
+<br>
 
 ## Inspirace a rozdíly oproti původnímu řešení
 
@@ -78,7 +78,7 @@ Tato varianta:
 Nejde o fork, ale o **samostatnou implementaci inspirovanou původní myšlenkou**.
 
 ---  
-
+<br>
 
 ## Upozornění
 
