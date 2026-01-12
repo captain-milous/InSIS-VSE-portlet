@@ -14,6 +14,47 @@ Projekt je vhodný jak pro běžné studenty, tak i pro technicky méně zdatné
 
 ---
 
+## Pokyny pro implementaci
+
+### 1. Klikni na **Portlety v InSIS**
+
+![Portlety](img/1-portlety.png)
+
+V menu **Přizpůsobení informačního systému** zvol **Portlety v InSIS**
+
+### 2. Přidej nový portlet
+
+![Přidání nového portletu](img/2-novy-portlet.png)
+
+a. V **Umísťovaný portlet** zvol **Zobrazení HTML kódu**
+
+b. V **Popis portletu** napiš krátký popis
+
+c. V **Pozice pro umístění portletu** zvol **Základní - na začátku stránky**
+
+d. Klikni na tlačítko **Přidat**
+
+
+### 3. Jdi do nastavení portletu
+
+![Nastavení portletu](img/3-nastaveni.png)
+
+V tabulce se svými portlety, zvol nově vytvořený portlet a jdi do jeho nastavení.
+
+### 4. Vlož HTML kód
+
+![Vložení HTML do portletu](img/4-vlozeni-html.png)
+
+a. Do textového pole **Zobrazovaný HTML kód** vlož celý HTML kód z insis-menu.html
+
+b. Klikni na tlačítko **Uložit změny**
+
+### 5. Hotovo – nové InSIS menu je aktivní
+
+![Preview MENU v InSIS](img/0-menu-preview.png)
+
+---
+
 ## Inspirace a rozdíly oproti původnímu řešení
 
 Projekt je **inspirován repozitářem**  
@@ -31,42 +72,6 @@ Tato varianta:
 - je vhodná i pro **mobilní zařízení**
 
 Nejde o fork, ale o **samostatnou implementaci inspirovanou původní myšlenkou**.
-
----
-
-## Pokyny pro implementaci
-
-### 1. Klikni na **Portlety v InSIS**
-
-![Portlety](img/1-portlety.png)
-
-V menu **Přizpůsobení informačního systému** zvol **Portlety v InSIS**
-
-### 2. Přidej nový portlet
-
-![Přidání nového portletu](img/2-novy-portlet.png)
-
-a. V **Umísťovaný portlet** zvol **Zobrazení HTML kódu**
-b. V **Popis portletu** napiš krátký popis
-c. V **Pozice pro umístění portletu** zvol **Základní - na začátku stránky**
-d. Klikni na tlačítko **Přidat**
-
-### 3. Jdi do nastavení portletu
-
-![Nastavení portletu](img/3-nastaveni.png)
-
-V tabulce se svými portlety, zvol nově vytvořený portlet a jdi do jeho nastavení.
-
-### 4. Vlož HTML kód
-
-![Vložení HTML do portletu](img/4-vlozeni-html.png)
-
-a. Do textového pole **Zobrazovaný HTML kód** vlož celý HTML kód z insis-menu.html
-b. Klikni na tlačítko **Uložit změny**
-
-### 5. Hotovo – nové InSIS menu je aktivní
-
-![Preview MENU v InSIS](img/0-menu-preview.png)
 
 ---
 
