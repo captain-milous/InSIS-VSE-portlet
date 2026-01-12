@@ -12,7 +12,7 @@ Cílem je zpřístupnit nejčastěji používané sekce (rozvrh, odevzdávárny,
 
 Projekt je vhodný jak pro běžné studenty, tak i pro technicky méně zdatné uživatele – stačí vložit hotový kód na správné místo.
 
----  
+<br>
 <br>
 
 ## Pokyny pro implementaci
@@ -58,7 +58,7 @@ b. Klikni na tlačítko **Uložit změny**
 
 ![Preview MENU v InSIS](img/0-menu-preview.png)
 
----  
+<br>
 <br>
 
 ## Inspirace a rozdíly oproti původnímu řešení
@@ -77,7 +77,7 @@ Tato varianta:
 
 Nejde o fork, ale o **samostatnou implementaci inspirovanou původní myšlenkou**.
 
----  
+<br>
 <br>
 
 ## Upozornění
@@ -86,3 +86,4 @@ Tento projekt není oficiální součástí systému InSIS ani Vysoké školy ek
 Slouží pouze jako uživatelské rozšíření pro vlastní potřebu.
 
 Vzhledem k tomu, že InSIS může své rozhraní kdykoli změnit, nemusí být funkčnost garantována do budoucna.
+<br>
